@@ -1,0 +1,2 @@
+income,2000.0,salary,
+expense,200.0,food,
